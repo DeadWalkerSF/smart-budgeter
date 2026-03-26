@@ -1,0 +1,10 @@
+/.gradle/
+/.idea/
+/.kotlin/
+/local.properties
+/keystore.properties
+/release-keystore.jks
+/gradle-8.13/
+/gradle-8.13-bin.zip
+*.iml
+**/build/
