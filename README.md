@@ -30,4 +30,4 @@ Black-and-gold Android budgeting app scaffold built with:
 
 ## Package
 
-- `com.suman.smartbudgeter`
+- `com.deadwalkersf.smartbudgeter`
