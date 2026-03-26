@@ -20,7 +20,7 @@ plugins {
 }
 
 android {
-    namespace = "com.suman.smartbudgeter"
+    namespace = "com.deadwalkersf.smartbudgeter"
     compileSdk = 36
 
     signingConfigs {
@@ -35,7 +35,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.suman.smartbudgeter"
+        applicationId = "com.deadwalkersf.smartbudgeter"
         minSdk = 26
         targetSdk = 36
         versionCode = 2
